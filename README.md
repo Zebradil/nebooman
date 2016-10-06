@@ -1,6 +1,8 @@
 Netscape Bookmark Manager
 ===================
 
+[![license](https://img.shields.io/github/license/kafene/netscape-bookmark-parser.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 Netscape Bookmark Manager is a command line utility that helps you to keep your bookmarks in order.
 
 For now it has only one option: `clean`. It will remove duplicate links, merge folders with the same name and remove
