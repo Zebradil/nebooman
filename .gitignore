@@ -3,3 +3,6 @@
 build/*
 dist/*
 .idea
+dist/
+nebooman/__pycache__/
+scripts/__pycache__/
